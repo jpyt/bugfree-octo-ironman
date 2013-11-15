@@ -1,4 +1,4 @@
 bugfree-octo-ironman
 ====================
 
-test repository for client setup and future dev
+Test repository for client setup and future development.
